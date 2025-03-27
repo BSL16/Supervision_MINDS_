@@ -19,9 +19,9 @@ Alternativement, vous pouvez utiliser Google Colab ou Anaconda Jupyter Notebook 
 
 Placez dans le dossier du projet :
 
-Le dataset de test nommé obligatoirement dataset.csv
+Le dataset de test nommé obligatoirement dataset.csv : à télécharger dans https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-50/detailed-bidirectional-flow-labels/capture20110817.binetflow ou https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-50/detailed-bidirectional-flow-labels/
 
-Le dataset d'entraînement nommé obligatoirement train_10.txt
+Le dataset d'entraînement nommé obligatoirement train_10.txt : à télécharger dans https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-51/detailed-bidirectional-flow-labels/capture20110818.binetflow.labeled ou https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-51/detailed-bidirectional-flow-labels/
 
 Adaptez ces noms en fonction des datasets d'entraînement que vous utilisez.
 
