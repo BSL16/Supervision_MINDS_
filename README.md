@@ -3,11 +3,11 @@ Algorithme de Détection  menace MINDS utilisant LOF
 
 Algorithme MINDS - Détection d'Anomalies Réseau
 
-Description
+# Description
 
 Ce projet implémente un algorithme de détection d'anomalies basé sur MINDS, utilisant une approche statistique du trafic réseau normal (CAMNEP) complétée par Local Outlier Factor (LOF).
 
-Dépendances
+# Dépendances
 
 Installez les bibliothèques suivantes avec pip :
 
@@ -15,7 +15,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 Alternativement, vous pouvez utiliser Google Colab ou Anaconda Jupyter Notebook qui contiennent ces dépendances préinstallées.
 
-Fichiers de données nécessaires
+# Fichiers de données nécessaires
 
 Placez dans le dossier du projet :
 
@@ -25,7 +25,7 @@ Le dataset d'entraînement nommé obligatoirement train_10.txt
 
 Adaptez ces noms en fonction des datasets d'entraînement que vous utilisez.
 
-Fonctions implémentées
+# Fonctions implémentées
 
 run_camnep_train_detection : Entraîne le modèle sur les données normales.
 
